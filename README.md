@@ -1,5 +1,6 @@
 # PORTFOLIO
-All my achievements, skills and sources of knowledge in testing.
+All my projects, achievements, skills and sources of knowledge in testing.
+Completion is still in progress...
 
 ## About me
 
