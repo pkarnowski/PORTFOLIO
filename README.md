@@ -11,7 +11,8 @@ Lorem ipsum.
 
 ## Courses
 
-* Courses I attended...
+* Software Development Academy - Software tester, 05-09.2023, 133h
+* Udemy - [Java Programming Masterclass updated to Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/) - in progress 
 
 ## Technical books read
 
