@@ -8,12 +8,28 @@ Lorem ipsum.
 
 ## Tech stack
 
-* Skills...
+These are the tools and technologies I am most drawn to in which I invest most of my studying time:
+* IDE IntelliJ + SeleniumWebDriver + BDD(Cucumber/Gherkin)
+* Java programming language
+* TestRail
+* Postman
+* Web developer tools in Chrome/Firefox(for automating, CSS selectors and Xpath)
+* JIRA(for bug reporting)
+
+And here are tools I am familiar with:
+* ASANA
+* Slack
+* GIT
+* Scrum
 
 ## Courses
 
 * Software Development Academy - Software tester, 05-09.2023, 133h
-* Udemy - [Java Programming Masterclass updated to Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/) - in progress 
+* Udemy - [Java Programming Masterclass updated to Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/) - in progress
+
+## Webinars and IT events attended
+
+* Name and date of events...
 
 ## Technical books read
 
