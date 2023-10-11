@@ -6,6 +6,10 @@ Content filling is still in progress...
 
 Lorem ipsum.
 
+## My projects
+
+* [Sklep muzyczny "Rockserwis.pl"](https://drive.google.com/drive/folders/1OoEWSPpsT9j8FO0FNoIUrFUsNU-y9LWj?usp=sharing)
+
 ## Tech stack
 
 These are the tools and technologies I am most drawn to in which I invest most of my studying time:
@@ -47,14 +51,3 @@ And here are tools I am familiar with:
 ## Blogs I read
 
 * Blogs...
-
-## My test documentation
-
-* Bug reports
-* Test reports
-* Test cases
-* Test scenarios
-
-## My projects
-
-* [Sklep muzyczny "Rockserwis.pl"](https://drive.google.com/drive/folders/1OoEWSPpsT9j8FO0FNoIUrFUsNU-y9LWj?usp=sharing)
