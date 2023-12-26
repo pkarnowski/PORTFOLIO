@@ -37,6 +37,7 @@ And here are tools I am familiar with:
 ## Webinars and IT events attended
 
 * [Tester Summit 2023 (online) | Konferencja dla testerów automatyzujących i testerów manualnych - 31.10.2023](https://stage.testersummit.pl/)
+* [QA Summit 2023 (online) | Konferencja dla testerów automatyzujących i testerów manualnych - 30.11.2023](https://stage.qasummit.pl/)
 
 ## Technical books read
 
