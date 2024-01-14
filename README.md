@@ -31,6 +31,7 @@ And here are tools I am familiar with:
 
 * Software Development Academy - Software tester, 05-09.2023, 133h
 * Udemy - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert + bonus creating a webapp and connecting it to a database with Javascript](https://www.udemy.com/certificate/UC-2ceb841b-423e-42c3-b5ab-332225c47dfe/) - 37.5h
+* Udemy - [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/certificate/UC-757c782a-b0c7-4ba6-b19a-d607ea6d6d72/)
 
 ## Webinars and IT events attended
 
